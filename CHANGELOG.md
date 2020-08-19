@@ -1,5 +1,11 @@
 # Change Log
 
+### backend-dx12-0.6.2 (19-08-2020)
+  - enable multisampling and object labels
+
+### backend-dx12-0.6.1 (18-08-2020)
+  - fix descriptor binding
+
 ### backend-vulkan-0.6.1 (17-08-2020)
   - fix Android build
 
